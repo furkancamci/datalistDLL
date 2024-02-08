@@ -1,0 +1,6 @@
+C:\Users\Furkan Camcı\source\repos\ProductList\ProductList\bin\Release\ProductList.pdb
+C:\Users\Furkan Camcı\source\repos\ProductList\ProductList\obj\Release\ProductList.csproj.AssemblyReference.cache
+C:\Users\Furkan Camcı\source\repos\ProductList\ProductList\obj\Release\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Camcı\source\repos\ProductList\ProductList\obj\Release\ProductList.dll
+C:\Users\Furkan Camcı\source\repos\ProductList\ProductList\obj\Release\ProductList.pdb
+C:\Users\Furkan Camcı\source\repos\ProductList\ProductList\obj\Release\ProductList.csproj.CopyComplete
