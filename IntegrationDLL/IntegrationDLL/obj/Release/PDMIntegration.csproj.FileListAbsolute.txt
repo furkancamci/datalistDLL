@@ -1,0 +1,6 @@
+C:\Users\Furkan Camcı\source\repos\IntegrationDLL\IntegrationDLL\bin\Release\IntegrationDLL.dll
+C:\Users\Furkan Camcı\source\repos\IntegrationDLL\IntegrationDLL\bin\Release\IntegrationDLL.pdb
+C:\Users\Furkan Camcı\source\repos\IntegrationDLL\IntegrationDLL\obj\Release\PDMIntegration.csproj.AssemblyReference.cache
+C:\Users\Furkan Camcı\source\repos\IntegrationDLL\IntegrationDLL\obj\Release\PDMIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Camcı\source\repos\IntegrationDLL\IntegrationDLL\obj\Release\IntegrationDLL.dll
+C:\Users\Furkan Camcı\source\repos\IntegrationDLL\IntegrationDLL\obj\Release\IntegrationDLL.pdb
